@@ -2,5 +2,7 @@
 Resource    ../KeywordApp/KariyerApp.robot
 
 *** Test Cases ***
-click find job test
-    KariyerApp.click find job
+Kariyer Project Test
+    KariyerApp.number of jobs available app
+    KariyerApp.number of jobs available in two town app
+    KariyerApp.number of jobs available in istanbul app
